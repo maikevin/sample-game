@@ -1,4 +1,4 @@
- # sample-game
+ # sample-game - random notes
 
 git init
 git add README.md # create your README first or use a file.
